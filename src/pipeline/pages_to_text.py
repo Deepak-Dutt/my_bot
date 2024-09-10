@@ -13,4 +13,4 @@ def to_text(pages):
     else:
         ValueError(f'Text file is not saved!!!')
 
-    return None
+    return cont

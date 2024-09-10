@@ -6,3 +6,4 @@
 # These two library provides funtionality of reading the content of pdf page by page and helps to create a object called document for further processing. 
 pypdf==4.3.1
 langchain==0.0.224
+nltk==3.9.1
