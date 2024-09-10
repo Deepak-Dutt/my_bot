@@ -1,0 +1,8 @@
+# These are the important libraries that are going to help the bot to function properly without getting any errors.
+
+# 'pypdf' is a pyhton library that read the PDF file.
+# The 'langchain' library is used the 'pypdf' funtionality to convert the PDF file into a object called document.
+# The object so called document contains a text and matadata separatly.
+# These two library provides funtionality of reading the content of pdf page by page and helps to create a object called document for further processing. 
+pypdf==4.3.1
+langchain==0.0.224
